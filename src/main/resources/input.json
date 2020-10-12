@@ -1,0 +1,288 @@
+[
+	{
+		"date": "2016-01-01",
+		"cycle": {
+			"frame": {
+				"type": "STEEL"
+			},
+			"wheels": {
+				"tyre": {
+					"quantity": 2
+				},
+				"tube": {
+					"size": "MEDIUM"
+				},
+				"spokes": {
+					"quantity": 16
+				}
+			}
+		}
+	},
+	{
+		"date": "2016-02-01",
+		"cycle": {
+			"frame": {
+				"type": "STEEL"
+			},
+			"wheels": {
+				"tyre": {
+					"quantity": 2
+				},
+				"tube": {
+					"size": "LARGE"
+				},
+				"spokes": {
+					"quantity": 20
+				}
+			}
+		}
+	},
+	{
+		"date": "2017-10-01",
+		"cycle": {
+			"frame": {
+				"type": "STEEL"
+			},
+			"wheels": {
+				"tyre": {
+					"quantity": 2
+				},
+				"tube": {
+					"size": "SMALL"
+				},
+				"spokes": {
+					"quantity": 16
+				}
+			}
+		}
+	},
+	{
+		"date": "2018-01-01",
+		"cycle": {
+			"frame": {
+				"type": "STEEL"
+			},
+			"wheels": {
+				"tyre": {
+					"quantity": 2
+				},
+				"tube": {
+					"size": "MEDIUM"
+				},
+				"spokes": {
+					"quantity": 30
+				}
+			}
+		}
+	},
+	{
+		"date": "2020-01-01",
+		"cycle": {
+			"frame": {
+				"type": "STEEL"
+			},
+			"wheels": {
+				"tyre": {
+					"quantity": 2
+				},
+				"tube": {
+					"size": "SMALL"
+				},
+				"spokes": {
+					"quantity": 16
+				}
+			},
+			"barWithBrakes": {
+				"brakes": {
+					"quantity": 4
+				}
+			},
+			"chainAssembly": {
+				"gears": {
+					"quantity": 4
+				},
+				"chainGuard": {
+					"quantity": 1
+				},
+				"chain": {
+					"quantity": 1
+				}
+			}
+		}
+	},
+	{
+		"date": "2020-11-01",
+		"cycle": {
+			"frame": {
+				"type": "STEEL"
+			},
+			"wheels": {
+				"tyre": {
+					"quantity": 2
+				},
+				"tube": {
+					"size": "MEDIUM"
+				},
+				"spokes": {
+					"quantity": 16
+				}
+			},
+			"barWithBrakes": {
+				"brakes": {
+					"quantity": 4
+				}
+			},
+			"chainAssembly": {
+				"gears": {
+					"quantity": 4
+				},
+				"chain": {
+					"quantity": 1
+				}
+			}
+		}
+	},
+	{
+		"date": "2016-01-01",
+		"cycle": {
+			"frame": {
+				"type": "STEEL"
+			},
+			"wheels": {
+				"tyre": {
+					"quantity": 2
+				},
+				"tube": {
+					"size": "MEDIUM"
+				},
+				"spokes": {
+					"quantity": 16
+				}
+			}
+		}
+	},
+	{
+		"date": "2016-02-01",
+		"cycle": {
+			"frame": {
+				"type": "STEEL"
+			},
+			"wheels": {
+				"tyre": {
+					"quantity": 2
+				},
+				"tube": {
+					"size": "LARGE"
+				},
+				"spokes": {
+					"quantity": 20
+				}
+			}
+		}
+	},
+	{
+		"date": "2017-10-01",
+		"cycle": {
+			"frame": {
+				"type": "STEEL"
+			},
+			"wheels": {
+				"tyre": {
+					"quantity": 2
+				},
+				"tube": {
+					"size": "SMALL"
+				},
+				"spokes": {
+					"quantity": 16
+				}
+			}
+		}
+	},
+	{
+		"date": "2018-01-01",
+		"cycle": {
+			"frame": {
+				"type": "STEEL"
+			},
+			"wheels": {
+				"tyre": {
+					"quantity": 2
+				},
+				"tube": {
+					"size": "MEDIUM"
+				},
+				"spokes": {
+					"quantity": 30
+				}
+			}
+		}
+	},
+	{
+		"date": "2020-01-01",
+		"cycle": {
+			"frame": {
+				"type": "STEEL"
+			},
+			"wheels": {
+				"tyre": {
+					"quantity": 2
+				},
+				"tube": {
+					"size": "SMALL"
+				},
+				"spokes": {
+					"quantity": 16
+				}
+			},
+			"barWithBrakes": {
+				"brakes": {
+					"quantity": 4
+				}
+			},
+			"chainAssembly": {
+				"gears": {
+					"quantity": 4
+				},
+				"chainGuard": {
+					"quantity": 1
+				},
+				"chain": {
+					"quantity": 1
+				}
+			}
+		}
+	},
+	{
+		"date": "2020-11-01",
+		"cycle": {
+			"frame": {
+				"type": "STEEL"
+			},
+			"wheels": {
+				"tyre": {
+					"quantity": 2
+				},
+				"tube": {
+					"size": "MEDIUM"
+				},
+				"spokes": {
+					"quantity": 16
+				}
+			},
+			"barWithBrakes": {
+				"brakes": {
+					"quantity": 4
+				}
+			},
+			"chainAssembly": {
+				"gears": {
+					"quantity": 4
+				},
+				"chain": {
+					"quantity": 1
+				}
+			}
+		}
+	}
+]
